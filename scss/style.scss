@@ -199,6 +199,7 @@ body {
 .hero__wrapper {
   display: flex;
   justify-content: space-between;
+  row-gap: 40px;
   flex-wrap: wrap;
 }
 .hero__img {
@@ -241,6 +242,7 @@ body {
   padding-top: 80px;
   display: flex;
   flex-wrap: wrap;
+  row-gap: 30px;
   justify-content: space-between;
 }
 .hero__card {
